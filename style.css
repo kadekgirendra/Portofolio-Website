@@ -31,7 +31,7 @@ nav {
 .h3 {
     width: 700px;
     color: whitesmoke;
-    font-size: 35px;
+    font-size: 45px;
     
 
 }
@@ -46,7 +46,7 @@ nav li {
 nav li a{
     color: whitesmoke;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 28px;
     position: relative;
 }
 nav li a::after {
@@ -65,10 +65,10 @@ nav li a:hover::after {
 .header-text {
     color: whitesmoke;
     margin-top: 20%;
-    font-size: 23px;
+    font-size: 33px;
 }
 .header-text h1 {
-    font-size: 48px;
+    font-size: 58px;
     margin-top: 20px;
 }
 .header-text h1 span {
@@ -107,7 +107,7 @@ nav li a:hover::after {
 }
 .tab-links {
     margin-right: 50px;
-    font-size: 18px;
+    font-size: 28px;
     font-weight: 500;
     cursor: pointer;
     position: relative;
@@ -131,7 +131,7 @@ nav li a:hover::after {
 }
 .tab-contents ul li span {
     color: rgb(52, 65, 165);
-    font-size: 14px;
+    font-size: 24px;
 }
 .tab-contents {
     display: none;
@@ -179,7 +179,7 @@ nav li a:hover::after {
     flex-direction: column;
     padding: 0 40px;
     text-align: center;
-    font-size: 14px;
+    font-size: 24px;
     transition: height 0.5s;
 }
 .layer h3 {
@@ -222,7 +222,7 @@ nav li a:hover::after {
 }
 .contact-left p {
     margin-top: 30px;
-    font-size: 15px;
+    font-size: 25px;
 }
 .contact-left p img {
     width: 20px;
@@ -234,7 +234,7 @@ nav li a:hover::after {
 } 
 .social-icons a{
     text-decoration: none;
-    font-size: 30px;
+    font-size: 40px;
     margin-right: 15px;
     display: inline-block;
     transition: transform 0.5s;
@@ -261,7 +261,7 @@ form input, form textarea {
 }
 form .btn2 {
     padding: 14px 60px;
-    font-size: 18px;
+    font-size: 28px;
     margin-top: 20px;
     cursor: pointer;
 }
@@ -273,7 +273,7 @@ form .btn2 {
     background: #262626;
     font-weight: 300;
     margin-top: 20px;
-    font-size: 13px;
+    font-size: 23px;
 }
 #msg {
     color: #61b752;
